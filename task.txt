@@ -1,0 +1,16 @@
+6. DevOps and Deployment
+
+104. Creating a repository on GitHub or GitLab.
+105. Following the basic Git workflow in Git.
+106. Creating and merging a Pull Request in Git.
+107. Creating a Docker image for a MERN stack.
+108. Setting up containers using Docker Compose.
+109. Setting up a deployment for a MERN stack in Kubernetes.
+110. Setting up a CI/CD pipeline in Jenkins.
+111. Deploying a React.js app on Netlify.
+112. Deploying a Node.js app on Heroku.
+113. Deploying a MERN stack on AWS, GCP, or Azure.
+114. Running a Node.js application using PM2.
+115. Setting up a reverse proxy for a Node.js server using Nginx.
+116. Setting up SSL using Cloudflare.
+117. Setting up automated tests in a CI/CD pipeline.
